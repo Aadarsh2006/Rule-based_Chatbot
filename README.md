@@ -26,11 +26,11 @@ as well as perform tasks like opening websites or playing music from a predefine
 
 ---
 
-## 🚀 How to Run
+## How to Run
 Clone this repository
 Make sure you have a musicLibrary.py file with songs in dictionary format.
 for example:
-# musicLibrary.py
+**musicLibrary.py**
 music = {
     "song1": "https://link-to-song1",
     "song2": "https://link-to-song2"
